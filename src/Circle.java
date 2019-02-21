@@ -7,7 +7,8 @@ public class Circle extends Figura{
     }
     @Override
     public double area(){
-        return (Math.PI * ()
+        return (Math.PI * Math.pow(this.r,2);
+
 
     }
 }
