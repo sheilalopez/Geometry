@@ -6,10 +6,11 @@ public class Rectangle extends Figura {
         this.l1 = l1;
         this.l2 = l2;
 
-        @Override
-                public double area(){
-            return this.l1 * this.l2; /*holi*/
+
         }
+    @Override
+    public double area(){
+        return this.l1 * this.l2; /*holi*/
     }
 
 }
